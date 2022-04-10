@@ -1,6 +1,6 @@
 # OIS_curve_modeling
 
-Repository with materials for presentation on OIS curve modeling for AGH Exotic Options seminar.
+Repository with materials for presentation on OIS curve modeling for AGH interest rate models seminar.
 
 ---
 <img align="left" width="400" src="https://github.com/PiotMik/OIS_curve_modeling/blob/main/OIS_term_structure.PNG">
